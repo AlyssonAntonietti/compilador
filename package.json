@@ -1,0 +1,13 @@
+{
+  "name": "compilador",
+  "version": "1.0.0",
+  "description": "Montando um compilador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "type": "module",
+  "author": "Alysson Antonietti",
+  "license": "ISC"
+}
